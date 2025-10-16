@@ -1,0 +1,16 @@
+{
+  "name": "com.fronkongames.spiceup.drunk",
+  "version": "1.2.0",
+  "displayName": "Spice Up: Drunk",
+  "description": "Simulates the effects of alcohol on the player.",
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "dependencies":  {  },
+  "keywords": [ "unity", "fps", "vr", "drunk", "drunken", "drink", "drinking", "alcohol", "stoned", "bar", "beer", "potion" ],
+  "author":
+  {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/store/spiceup.html"
+  }
+}

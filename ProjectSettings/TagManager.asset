@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stick
+  - Weapon
+  - Fish
+  - Selectable
+  - VRHand
+  - Audio
+  - Wood
+  - Fire
+  - Pot
+  - WaterCanDrink
+  - Mouth
+  - Dock
+  - Poison
+  - SOS
+  - Last Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Post
+  - NavMesh
+  - Fire
+  - Food
+  - Drink
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
